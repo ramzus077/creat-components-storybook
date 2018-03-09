@@ -86,7 +86,7 @@ export default ({
           
 
             {/* The modal text */}
-            <ScrollView style={{ maxHeight: height / 3 }}>
+            <ScrollView style={{ maxHeight: height }}>
               <Text
                 style={[
                   TYPO.BODY,
